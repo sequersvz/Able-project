@@ -1,0 +1,52 @@
+
+html, 
+body,
+#root,
+.App {
+    min-height: 100% !important;
+    background: #FFFFFF !important;
+}
+
+body {
+    --color-background:#22272b;
+    --color-on-background:#fff;
+    --color-layer-transparent:rgba(0,5,11,0.9);
+    --color-surface:#2c343a;
+    --color-primary:#67c2e4;
+    --color-on-primary:#fff;
+    --color-on-surface: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+
+.navMenu-item__sidebar {
+  display: block;
+  font-weight: 400;
+  color: #666666;
+  position: relative;
+  font-size: 1.1em;
+  width: 100%;
+}
+
+.navMenu-active {
+  color: #000000;
+  font-weight: 500;
+  position: relative;
+}
+
+.navMenu-active::before {
+  content: " ";
+  width: 40px;
+  height: 1.5px;
+  background-color: #203F2B;
+  position: absolute;
+  top: 10px;
+  left: -80px;
+}
+
+
+.alice-carousel__stage-item.__active {
+  margin-right: -15px;
+}

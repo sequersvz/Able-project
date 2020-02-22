@@ -1,0 +1,32 @@
+{
+  "wizardForm": {
+    "closeButton" : "Salir",
+    "nextButton": "Continuar",
+    "doneButton": "Proceder",
+    "backButton": "Anterior",
+    "stepOne": {
+      "title": "¿Que estas buscando?",
+      "chipTagPlantBased" : "a base de plantas",
+      "chipTagOrganic" : "orgánica",
+      "chipTagRichSalad" : "ensalada",
+      "chipTagColdCuts" : "embutidos",
+      "chipTagWarmDishes" : "platos calientes",
+      "chipTagCake" : "pastel",
+      "chipTagCheese" : "queso",
+      "chipTagGreenSalad" : "ensalada verde",
+      "inputPlaceHolder": "Intenta \"a base de plantas\""
+    },
+    "stepTwo" : {
+      "title" : "Cuentanos un poco acerca de ustedes",
+      "locatedInput": "Location",
+      "peopleInput": "Cantidad de personas",
+      "priceInput": {
+        "label": "Precio",
+        "to": "Hasta"
+      }
+    },
+    "stepThree" : {
+      "title": "Te recomendamos que intentes con..."
+    }
+  }
+}

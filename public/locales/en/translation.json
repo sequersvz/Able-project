@@ -1,0 +1,32 @@
+{
+  "wizardForm": {
+    "closeButton" : "Close",
+    "nextButton": "Continue",
+    "doneButton": "Proceed",
+    "backButton": "Previous",
+    "stepOne": {
+      "title": "What're you looking for?",
+      "chipTagPlantBased" : "plantbased",
+      "chipTagOrganic" : "organic",
+      "chipTagRichSalad" : "rich salad",
+      "chipTagColdCuts" : "cold cuts",
+      "chipTagWarmDishes" : "warm dishes",
+      "chipTagCake" : "cake",
+      "chipTagCheese" : "cheese",
+      "chipTagGreenSalad" : "green salad",
+      "inputPlaceHolder": "Try \"plantbased\""
+    },
+    "stepTwo" : {
+      "title" : "Tell us a bit about you guys",
+      "locatedInput": "Location",
+      "peopleInput": "Amount of people",
+      "priceInput": {
+        "label": "price",
+        "to": "to"
+      }
+    },
+    "stepThree" : {
+      "title": "We recommend you to try..."
+    }
+  }
+}
